@@ -57,9 +57,8 @@
 
 ## 🏆 Achievements
 - 🛡️ [Top 12% Leetcode ( 1703 Max)](https://leetcode.com/Prem-Shankar-Singh/)
-- 🥇 [ AIR 850 in IICC Innovate India Coding Championship]()
-- 🌟 [Top 1% Flipkart Grid 5.0 ]()
-- ⭐ [Open-Source Collaborations]()
+- 🌟 [Top 1% Flipkart Grid 5.0 ](https://unstop.com/certificate-preview/825ec5e0-4508-47c4-9b8e-ffc2e2a1d85d)
+- ⭐ [Open-Source Collaborations](https://github.com/users/thepremshankarsingh/achievements/pull-shark)
 
 
 ## 🌐 Connect with Me
