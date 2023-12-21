@@ -9,7 +9,7 @@
 
 ## About Me
 - 🎓 I am a Final-year Btech Undergraduate in Information Technology at Kamla Nehru Institute of Technology, Sultanpur
-- 💼 Ex-Intern at Torque 
+- 💼 Ex-Intern at Torque (6 Months)
 - 🚀 Passionate about Problem-solving and MERN - Stack development
 
 ## 💻 Technologies & Tools
