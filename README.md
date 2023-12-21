@@ -65,6 +65,6 @@
 - [LinkedIn](https://www.linkedin.com/in/premshankarsingh/)
 - [GitHub](https://github.com/thepremshankarsingh)
 - [Email](mailto:premss11062000@gmail.com)
-- [Resume](https://drive.google.com/file/d/1MGRCgloGjuR02I3xvYsFSWW3iTvm3Smm/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/15LyhgYFQQoyHiDaobu7Kv8Gz-it-P1UP/view?usp=sharing)
 
 <!-- Add more sections as needed -->
